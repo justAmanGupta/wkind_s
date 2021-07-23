@@ -1,5 +1,9 @@
 # wkinds
 
+Main Dart code of the App in the "lib" directory.
+Screenshots in "Screen_Shots" directory.
+Screen Recording in "Screen_Recording" directory.
+
 A new Flutter application.
 
 ## Getting Started
