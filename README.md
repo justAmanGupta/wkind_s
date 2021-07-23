@@ -6,8 +6,10 @@ Screenshots in "Screen_Shots" directory.
 
 Screen Recording in "Screen_Recording" directory.
 
+The APK can found in the "Output_APK" directory and can be installed on an Android Device.
 
-A new Flutter application.
+
+This is a Flutter application.
 
 ## Getting Started
 
